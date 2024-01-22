@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/jumo-car/static/css/main.aa5c0737.css",
+    "main.js": "/jumo-car/static/js/main.43315073.js",
+    "static/js/787.d8b338cd.chunk.js": "/jumo-car/static/js/787.d8b338cd.chunk.js",
+    "static/media/banner-2.jpg": "/jumo-car/static/media/banner-2.3989d389cb0148429d0d.jpg",
+    "static/media/how-img-2.png": "/jumo-car/static/media/how-img-2.31575090d026c3fbabc9.png",
+    "static/media/how-img-1.png": "/jumo-car/static/media/how-img-1.2d28bee3cdd9bd10c078.png",
+    "static/media/how-img-3.png": "/jumo-car/static/media/how-img-3.b43b7e525da88a79bf75.png",
+    "static/media/banner-1.jpg": "/jumo-car/static/media/banner-1.bf5b6e57ab9f4cc221f9.jpg",
+    "static/media/car-s-3.jpg": "/jumo-car/static/media/car-s-3.13de393b50196edcc7ea.jpg",
+    "static/media/car-s-4.jpg": "/jumo-car/static/media/car-s-4.908a001855b7c83dbb22.jpg",
+    "static/media/car-s-1.jpg": "/jumo-car/static/media/car-s-1.268d82b03c1e9e9b2881.jpg",
+    "static/media/car-s-2.jpg": "/jumo-car/static/media/car-s-2.869a67139517997c4cbe.jpg",
+    "static/media/brand-9.png": "/jumo-car/static/media/brand-9.9edb5f90a766a9f26e0b.png",
+    "static/media/brand-10.png": "/jumo-car/static/media/brand-10.c07bf3acdecdb48a4f7d.png",
+    "index.html": "/jumo-car/index.html",
+    "static/media/search.svg": "/jumo-car/static/media/search.582e6fdae2c59f4e7b41bc2c538877cd.svg",
+    "main.aa5c0737.css.map": "/jumo-car/static/css/main.aa5c0737.css.map",
+    "main.43315073.js.map": "/jumo-car/static/js/main.43315073.js.map",
+    "787.d8b338cd.chunk.js.map": "/jumo-car/static/js/787.d8b338cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa5c0737.css",
+    "static/js/main.43315073.js"
+  ]
+}
